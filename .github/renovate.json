@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "github>The-Hosted-Home/renovate"
+  ]
+}
